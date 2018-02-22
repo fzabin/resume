@@ -21,6 +21,7 @@ I'm a Full Stack developer who loves working with technology and creating things
 * NodeJS (Express.js, Knex.js, Bookshelf.js, JWT)
 * API REST
 * ReactJS / Redux
+* React Native
 * AngularJS
 * Git
 * Android (Retrofit, Material Design)
