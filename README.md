@@ -2,11 +2,7 @@
 
 **Location:** Limeira/SP - Brazil
 
-**Phone Number:** +55 (19) 98811 5747
-
 **E-mail:** fernando.zabin@gmail.com
-
-**Skype:** fernando.zabin
 
 **Github:** fzabin
 
@@ -43,9 +39,6 @@ I'm a Full Stack developer who loves working with technology and creating things
 ## Education
 
 **Systems Analysis and Development in University of Campinas** - February 2014 - December 2017
-
-**Telecommunication Systems in University of Campinas** - February 2012 - December 2014 (Stopped)
-
 
 ## Courses
 
