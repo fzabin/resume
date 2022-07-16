@@ -40,11 +40,6 @@ I'm a Full Stack developer who loves working with technology and creating things
 
 > Technical support to students and teachers.
 
-**Technical Support Freelancer** - September 2007 - 2013
-
-> Technical support in home computers and networks.
-
-
 ## Education
 
 **Systems Analysis and Development in University of Campinas** - February 2014 - December 2017
